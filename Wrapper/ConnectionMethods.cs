@@ -54,7 +54,8 @@ namespace TradeMe.Api.Client
             ConsumerSecret = " ";
 
             AccessUrl = "https://secure.tmsandbox.co.nz/Oauth/AccessToken";
-            BaseUrl = "https://api.tmsandbox.co.nz/v1/";
+            //BaseUrl = "https://api.tmsandbox.co.nz/v1/";
+            BaseUrl = "http://api.trademe.co.nz/v1";
             RequestTokenUrl = "https://secure.tmsandbox.co.nz/Oauth/RequestToken";
             AuthorizeUrl = "https://secure.tmsandbox.co.nz/Oauth/Authorize";
 

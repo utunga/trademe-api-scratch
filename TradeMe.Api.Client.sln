@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWrapper", "Wrapper\ApiWr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{72A310A6-653B-4036-92F9-097CAC612FA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvFiles", "CsvFiles\CsvFiles.csproj", "{A0A4EA80-8744-404D-B838-7765F8B313CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{72A310A6-653B-4036-92F9-097CAC612FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72A310A6-653B-4036-92F9-097CAC612FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72A310A6-653B-4036-92F9-097CAC612FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A4EA80-8744-404D-B838-7765F8B313CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A4EA80-8744-404D-B838-7765F8B313CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A4EA80-8744-404D-B838-7765F8B313CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A4EA80-8744-404D-B838-7765F8B313CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
